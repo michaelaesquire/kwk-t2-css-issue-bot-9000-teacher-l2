@@ -5,7 +5,7 @@ body {
 
 h1 {
   color: blue;
-  fontsize: 3em; 
+  font-size: 3em;
 }
 
 h2 {
@@ -18,7 +18,7 @@ h2 {
   font-family: 12px;
 }
 
-#tasks .completed 
+#tasks .completed
   backgound: #ccc;
   text-decoration: underline;
 }
